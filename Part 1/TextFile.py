@@ -18,7 +18,7 @@ word_frequency = Counter(words)
 
 print(f"行数: {line_count}")
 print(f"总单词数: {word_count}")
-print(f"单词出现频率 (按频率从高到低):")
+print("单词出现频率 (按频率从高到低):")
 
 for word, freq in word_frequency.most_common(10):
     print(f"{word} 出现 {freq} 次")
