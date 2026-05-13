@@ -86,7 +86,7 @@ def test(dataset, W1, W2):
 
 
 if __name__ == "__main__":
-    data_path = "../Dataset/archive"
+    data_path = "./data/archive"
 
     train_images_path = os.path.join(data_path, "train-images.idx3-ubyte")
     train_labels_path = os.path.join(data_path, "train-labels.idx1-ubyte")
