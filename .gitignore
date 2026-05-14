@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+mlflow.db
+Part3&4/mnist-pytorch-autolog.py
