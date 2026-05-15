@@ -12,3 +12,4 @@ wheels/
 
 mlflow.db
 Part3&4/mnist-pytorch-autolog.py
+Part3&4/mlflow.md

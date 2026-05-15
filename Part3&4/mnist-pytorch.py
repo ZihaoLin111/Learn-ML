@@ -72,6 +72,8 @@ def train_epoch(
         torch.save(model.state_dict(), "best_mnist_model.pth")
 
 
+
+
 def show_loss(loss):
     plt.plot(loss)
     plt.xlabel("Epoch")

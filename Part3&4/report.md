@@ -8,3 +8,7 @@
 训练日志如图所示
 ![Loss](./mnist_pytorch_loss_2026-05-14%2019:42:55.png)
 ![Acc](./mnist_pytorch_accuracy_2026-05-14%2019:43:00.png)
+
+# Repoort for Part 4
+
+## CNN
